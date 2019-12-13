@@ -57,6 +57,6 @@ exclude:
 # theme: "ed."
 
 # Remote Theme
-# (Used only for GitHub deployments)
+# (Used only for GitHub deployments) (Which is what I'm doing right now)
 # See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
 remote_theme: minicomp/ed
