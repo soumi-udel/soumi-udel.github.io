@@ -1,16 +1,20 @@
 ---
-layout: poem
+layout: post
 title: Dreams
 author: Langston Hughes
 editor: Alex Gil
 source: Project Guttenberg
 ---
 
-- Hold fast to dreams
-- For if dreams die
-- Life is a broken-winged bird
-- That cannot fly.
-- Hold fast to dreams
-- For when dreams go
-- Life is a barren field
-- Frozen with snow.
+Hold fast to dreams
+For if dreams die
+Life is a broken-winged bird
+That cannot fly.
+Hold fast to dreams
+For when dreams go
+Life is a barren field
+Frozen with snow.
+
+And Math. It works yo.
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
