@@ -1,7 +1,3 @@
----
-layout: page
-title: Credits
----
 
 ### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
 
