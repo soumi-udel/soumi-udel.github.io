@@ -6,8 +6,6 @@ editor: Alex Gil
 source: "Bartleby.com"
 ---
 
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
-
 - DELAYED till she had ceased to know,
 - Delayed till in its vest of snow
 - {:.indent-2}Her loving bosom lay.

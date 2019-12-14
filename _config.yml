@@ -2,9 +2,9 @@
 
 # Setup
 title:               Soumi@Udel
-tagline:             'A Chemical Engineering PhD candidate with a blog.'
-description:         ''
-url:                 'http://soumi-udel.github.io'
+tagline:             'an academic blog'
+description:         'A chemical engineering PhD candidate at the University of Delaware'
+url:                 ''
 baseurl:             ''
 
 # About/contact
@@ -14,7 +14,7 @@ author:
   email:             
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:        blue
+color-scheme: blue
 
 # Permalinks
 permalink: pretty
@@ -57,6 +57,6 @@ exclude:
 # theme: "ed."
 
 # Remote Theme
-# (Used only for GitHub deployments) (Which is what I'm doing right now)
+# (Used only for GitHub deployments)
 # See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
 remote_theme: minicomp/ed
