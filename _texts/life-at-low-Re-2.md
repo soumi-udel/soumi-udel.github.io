@@ -24,4 +24,4 @@ At one point we didn’t know the answer to this question. But there was a rathe
 
 The E. Coli flagella structure looks like this:
 
-![Flagella](/_texts/images/flagella.png "From Wikipedia")
+![Flagella](/images/flagella.png "From Wikipedia")
