@@ -26,9 +26,15 @@ The E. Coli flagella structure looks like this:
 
 <!-- Here is the code for the figure. It's clunky and maybe we should do something in the CSS files to make it prettier -->
 <center>
-<figure>
+<figure style="border: 1px solid #C0C0C0">
 <img src="/images/flagella.png" align="center" hspace="50" vspace="50" height="315" width="280" />
-<figcaption><a href = "https://en.wikipedia.org/wiki/Flagellum#/media/File:Flagellum_base_diagram-en.svg"> From Wikipedia </a></figcaption>
+<figcaption>
+	<a href = "https://en.wikipedia.org/wiki/Flagellum#/media/File:Flagellum_base_diagram-en.svg">
+		<small><small>
+			From Wikipedia 
+		</small></small>
+	</a>
+</figcaption>
 <!--
 	629x561 pixels
 ![Flagella](/images/flagella.png "From Wikipedia")
