@@ -8,7 +8,7 @@ title: Life at Low Reynolds Number - Part 2
 
 ## Introduction.
 
-In Part 1, we discussed how the force needed to push something in water at Reynolds’ number of 1 is 10^-4 dyne, or 10^-9 Newtons. Who cares for such tiny forces? Bacteria. In the paper, Purcell dives into talking about Bacteria, their flagella and chemotaxis. More importantly for chemical engineers, he talks about diffusion and provides a very nice framework to understand its relevance.
+In Part 1, we discussed how the force needed to push something in water at Reynolds’ number of 1 is 10^-9 Newtons. Who cares for such tiny forces? Bacteria. In the paper, Purcell dives into talking about Bacteria, their flagella and chemotaxis. More importantly for chemical engineers, he talks about diffusion and provides a very nice framework to understand its relevance.
 
 Purcell takes a few side-steps before getting to the point, which is great for us – each of those forays is a fun little paper that leads us into biology. The subject matter is complex enough to be fun to read, and simple enough that terms you don’t understand can be readily googled. And being a physicist, his tone is one of undergraduate-like wonder for a field he’s not done a PhD in. In his own words:
 
@@ -24,4 +24,4 @@ At one point we didn’t know the answer to this question. But there was a rathe
 
 The E. Coli flagella structure looks like this:
 
-![https://en.wikipedia.org/wiki/Flagellum#/media/File:Flagellum_base_diagram-en.svg](https://github.com/soumi-udel/soumi-udel.github.io/images/flagella.png "From Wikipedia")
+![Flagella](/images/flagella.png "From Wikipedia")
