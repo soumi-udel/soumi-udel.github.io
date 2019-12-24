@@ -14,13 +14,13 @@ Purcell takes a few side-steps before getting to the point, which is great for u
 
 >We wander around strictly as amateurs equipped only with some elementary physics, and in the end, it turns out, we improve our understanding of the elementary physics even if we don’t throw much light on the other subjects.
 
-Improving our understanding of elementary physics is very handy for a chemical engineer, because it’s our job to find out how it can be used to ‘throw much light’ on the ‘other subjects’ that Purcell speaks of. Anyway, onward. 
+Improving our understanding of elementary physics is very handy for a chemical engineer, because it’s our job to find out how it can be used to ‘throw much light’ on the ‘other subjects’ that Purcell speaks of. Onward.  
 
 <hr>
 
 ## Flagella: do they wave or rotate?
 
-At one point we didn’t know the answer to this question. But there was a rather cute experiment ([described in a short paper](https://www.nature.com/articles/249073a0)) that provided strong support to ‘rotate’.
+At one point in time we did not know the answer to this question. But there was a rather cute experiment ([described in a short paper](https://www.nature.com/articles/249073a0)) that provided strong support to ‘rotate’.
 
 The E. Coli flagella structure looks like this:
 
@@ -47,8 +47,8 @@ There is a particular mutant strain of _E. Coli_ which doesn’t have the filame
 
 In such cases – the immobilized and tethered cells _rotated_. This means the hooks (and by extension, the flagella attached to them in non-mutant strains) rotate! We take it for granted now, but must’ve been quite interesting to realize that nature has fitted molecular outboard motors on the posteriors of some cells.
 
-Purcell then goes on detailing the math involved in corkscrew-like or flagellar motion (which I do not understand) and calculates the efficiency of such a motor, which turns out to be all of 1%.
+Purcell then goes on detailing the math involved in corkscrew-like or flagellar motion (which I glossed over) and calculates the efficiency of such a motor, which turns out to be all of 1%.
 
-It appears low, but the E. Coli don’t care – their total energy needs are minimal. They can usually collect sufficient energy-giving molecules by diffusion, as they move around.
+It appears low, but the E. Coli do not care – their total energy needs are minimal. They can usually collect sufficient energy-giving molecules by diffusion, as they move around.
 
-Now we’ve started talking about diffusion. Which means we’ve started talking about mass-transfer. Which means it’s time for Part 3!
+Now we’ve started talking about diffusion. Which means we’ve started talking about mass-transfer. Which means it is time for [Part 3](/texts/life-at-low-Re-3/)!

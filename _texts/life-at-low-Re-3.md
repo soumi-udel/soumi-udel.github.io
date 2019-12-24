@@ -24,7 +24,7 @@ For this dimensionless ‘Stirring’ number, Purcell says:
 
 He later adds a footnote:
 
-I’ve recently discovered that it’s official name is Sherwood Number.
+>I’ve recently discovered that it’s official name is Sherwood Number.
 
 But wait! What about the [Peclet number](https://en.wikipedia.org/wiki/P%C3%A9clet_number)? It’s a ratio of advective transfer to diffusive transfer, whereas Sherwood is a ratio of _convective_ transfer to diffusive. Moreover, the Peclet number has the exact same formula as the ‘Stirring’ number.
 

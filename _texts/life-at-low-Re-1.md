@@ -43,10 +43,10 @@ $$ F = \frac{6 \pi \eta^2}{\rho} $$
 
 That’s the force which pulls a sphere along with a Reynolds number of one. Drop the scaling factor for the sphere to get _some force_ that pulls some object in a regime that has significant viscous forces.
 
-$$ some force = \frac{\eta^2}{\rho} $$
+$$ \textrm{some force} = \frac{\eta^2}{\rho} $$
 
 Notice that viscosity and density are both fluid properties, hence _some force_ is independent of the object being pulled. For water 
 
-$$ some force = ~ 1 \times 10^{-9}  \textrm{Newtons}$$ 
+$$ \textrm{some force} = ~ 1 \times 10^{-9}  \textrm{Newtons}$$ 
 
-Is a force of this magnitude significant for your system? If you’re a submarine moving in the Indian ocean, clearly it’s not. If you’re an _E. Coli_ bacterium, then it probably is. Let's talk more about _E. Coli_ in Part 2!
+Is a force of this magnitude significant for your system? If you are a submarine moving in the Indian ocean, clearly it’s not. If you are an _E. Coli_ bacterium, then it probably is. Let's talk more about _E. Coli_ in [Part 2](/texts/life-at-low-Re-2/)!
