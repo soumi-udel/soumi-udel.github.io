@@ -42,7 +42,7 @@ Rather, it just needs to sit in place and allow molecules from its local environ
 
 That doesn’t mean it should never move – if it finds itself in an environment where the local concentration of molecules is insufficient, the E. Coli would benefit from moving into a new environment – and it does.
 
-The takeaway is this – the motion doesn’t lead to increased nutrient-molecule uptake. Rather, motion leads to the E. Coli. to a new environment, which might have a higher concentration of these molecules. Once in this new environment, increased _diffusion_ (due to the new environment having higher concentrations of our molecule) leads to increased nutrient-uptake.
+The takeaway is this – the motion doesn’t lead to increased nutrient-molecule uptake. Rather, motion leads our E. Coli. to a new environment, which might have a higher concentration of these molecules. Once in this new environment, increased _diffusion_ (due to the new environment having higher concentrations of our molecule) leads to increased nutrient-uptake.
 
 ## Finishing up
 
