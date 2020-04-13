@@ -10,7 +10,7 @@ This post is about gap years between academia.
 
 Between my undergraduate and masters degrees, I worked as a process design engineer for two years, designing oil refineries at [_UOP-Honeywell_](https://www.uop.com/). Between my masters and PhD, I spent a year [leading high-altitude treks](https://www.indiahikes.com/author/soumitra152/) in the Himalayas. 
 
-In India there is this idea that you should complete your studies in one stretch. Mixing employment and grad school is looked at with slight disapproval. Taking a personal gap year, where you're far removed from your profession and academics, is looked at with significant disapproval. Thankfully, things are changing.  
+In India there is this idea that you should complete your studies in one stretch. Mixing employment and grad school is viewed with slight disapproval. Taking a personal gap year, where you're far removed from your profession and academics, raises a lot of eyebrows and is generally regarded as a bad move. Thankfully, things are changing.  
 
 As someone who has bounced around before settling into a PhD program, I got to hear a range of comments. Here are some arguments people made for _not_ taking a gap year, and my responses to them.
 
@@ -34,7 +34,7 @@ In India, there used to be a chance of firms raising an eyebrow, but things are 
 
 ## "Your brain slows down, acquiring new information is harder with age"
 
-Between 21 and 31? If someone says this to you, ask yourself: "Is this person a neuroscientist?" 
+Bollocks. 
 
 <hr>
 

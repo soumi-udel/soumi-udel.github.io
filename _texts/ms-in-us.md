@@ -8,11 +8,11 @@ title: Doing a Master's Degree in the US - Part 1.
 
 I am an Indian citizen who did his Chemical Engineering Master’s degree from The Johns Hopkins University (JHU). After that I took a gap year, and then got admitted to a PhD program at the University of Delaware, which I am currently pursuing. In this post I will write what I have learnt about the Master’s degree experience. Part 1 will deal with the CV-building aspects of it. Part 2 will deal with trying to make graduate school an enjoyable experience. 
 
-## Courses are not very important
+## Deprioritize Courses
 
-As you advance in degrees, courses become less important. As an MS student, you want to get good grades if you want to apply for PhD afterwards, but you also don't want to spend too much time on them. Take advantage of the freedom of an MS degree and explore. If you are a biology-heavy person, take a course in solution thermodynamics or interfacial engineering. If you are into catalysis, maybe a computational biology course. Why not? It’s only an MS – it’s a stepping stone. Get some experience.
+As you advance in degrees, taking courses becomes less important then deploying them in the lab. As an MS student, you want to get good grades if you want to apply for PhD afterwards. But spending so much time on them that you don't do any lab work is not a great idea. Take advantage of the freedom of an MS degree and explore. If you are a biology-heavy person, take a course in solution thermodynamics or interfacial engineering. If you are into catalysis, maybe a computational biology course. Why not? It’s only an MS – it’s a stepping stone. Get some experience.
 
-At JHU, We had to do 8 courses. Rather than do 3/3 over the first two semesters, some students (including me) did 4/2. This meant I was able to devote more time to research from the second semester. Speaking of research...
+At JHU, We had to do 8 courses. Rather than do 3/3 over the first two semesters, some students did 4/2. This meant more time to do research in the second semester. Speaking of research...
 
 ## Spend as much time in the lab as possible
 
