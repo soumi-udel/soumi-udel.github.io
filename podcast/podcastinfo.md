@@ -14,4 +14,4 @@ It is tricky for undergraduates to figure out what the latest developments in th
 
 The people best placed to deliver latest information, and discuss what the state of the art is, are ICT Alumni who have just finished or are about to finish their PhD. And there are plenty of alumni, working across the world, in a range of areas - from biotherapeutics to process control. 
 
-Thsi is an effort to bridge the gap between the two groups. The plan is to have quick, fun and interesting conversations - in podcast form - on all the diverse stuff that constitutes the latest in chemical engineering. 
+This is an effort to bridge the gap between the two groups. The plan is to have quick, fun and interesting conversations - in podcast form - on all the diverse stuff that constitutes the latest in chemical engineering. 
