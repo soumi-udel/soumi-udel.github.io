@@ -10,13 +10,13 @@ To know more about how you can contribute, or the motivation behind this project
 
 <hr>
 
-### Episode 1
+### Episode 3. 
 
-Ghata Nirmal (ICT B. Chem. Eng. 2014) speaks of her PhD experience at the [Laboratory of Complex Fluids](http://individual.utoronto.ca/aramcha/index.html){:target="blank"}, University of Toronto.
+Anusha Pusuluri (ICT B. Chem. Eng. 2013) discusses her PhD, which she obtained from the [Mitragotri lab](https://drugdelivery.seas.harvard.edu/), in the field of drug delivery.  
 
-Keywords: Transport phenomena, interfacial engineering, fluid mechanics. 
+Keywords: Drug Delivery, Apatamers, Breast Cancer. 
 
-[Link](/podcast/Episode1_GhataN.mp3){:target="blank"}
+[Link](/podcast/Episode3_AnushaP.mp3){:target="blank"}
 
 <hr>
 
@@ -27,5 +27,15 @@ Akshay Subramaniam (ICT B. Chem. Eng. 2013) is in the ending stages of his PhD, 
 Keywords: Batteries, Electric Vehicles, Electrochemical Modelling. 
 
 [Link](/podcast/Episode2_AkshayS.mp3){:target="blank"}
+
+<hr>
+
+### Episode 1
+
+Ghata Nirmal (ICT B. Chem. Eng. 2014) speaks of her PhD experience at the [Laboratory of Complex Fluids](http://individual.utoronto.ca/aramcha/index.html){:target="blank"}, University of Toronto.
+
+Keywords: Transport phenomena, interfacial engineering, fluid mechanics. 
+
+[Link](/podcast/Episode1_GhataN.mp3){:target="blank"}
 
 <hr>
