@@ -12,7 +12,9 @@ To know more about how you can contribute, or the motivation behind this project
 
 ### Episode 3. 
 
-Anusha Pusuluri (ICT B. Chem. Eng. 2013) discusses her PhD, which she obtained from the [Mitragotri lab](https://drugdelivery.seas.harvard.edu/), in the field of drug delivery.  
+Anusha Pusuluri (ICT B. Tech. Pharmaceuticals 2013) discusses her PhD, which she obtained from the [Mitragotri lab](https://drugdelivery.seas.harvard.edu/), in the field of drug delivery.  
+
+ERRATUM: The voiceover incorrectly mentions Anusha's class to be 'ICT B. Chem. Engg.' This will be rectified shortly. 
 
 Keywords: Drug Delivery, Apatamers, Breast Cancer. 
 
